@@ -10,10 +10,10 @@ clear = Clears the terminal.
 shutdown = Stops PythonOS.
 
 Requirements:
-Tkinter module
-Any operating system
-OS module
-Platform module
+Tkinter module,
+Any operating system,
+OS module,
+Platform module,
 
 How to start:
 Type "python3 /Path/To/PythonOS.py" in terminal then press enter.
