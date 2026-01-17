@@ -8,7 +8,7 @@ viewfile [file] = Views the text or code file.
 open-win = Opens a blank window.
 clear = Clears the terminal.
 shutdown = Stops PythonOS.
-mfold [name] = Creates a folder
+mfold [name] = Creates a folder.
 mfile [name] = Creates a text file.
 
 Requirements:
